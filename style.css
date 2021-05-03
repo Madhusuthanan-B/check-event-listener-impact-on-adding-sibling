@@ -1,0 +1,21 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#root {
+  height: 90vh;
+  background: yellowgreen;
+}
+
+.label {
+  height: 200px;
+  width: 300px;
+  background: blue;
+}
+
+.newLabel {
+  background: red;
+  height: 100px;
+  width: 300px;
+}
